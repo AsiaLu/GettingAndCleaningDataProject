@@ -28,6 +28,7 @@ The `"run_analysis.R"` script requires a package `"reshape2"` to be installed (i
 
 ### What steps the R script takes?
 
-All the steps taken by the `"run_analysis.R"` script to achieve the tidy data set are fully described in the CodeBook file. You can also find there the description of the variables.
+All the steps taken by the `"run_analysis.R"` script to achieve the tidy data set are fully described in the CodeBook file. You can also find there the description of the variables. Please find below the link to the CodeBook:
+https://github.com/AsiaLu/GettingAndCleaningDataProject/blob/master/CodeBook.md
 
 
