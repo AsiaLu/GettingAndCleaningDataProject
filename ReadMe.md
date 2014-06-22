@@ -19,15 +19,15 @@ The purpose of this project is to achieve from a row data a tidy data set with t
 5. Check out your working directory, you should have there a new file called `tidy_data_set.txt`
 
 
-### What steps the R script takes?
-
-All the steps taken by the `"run_analysis.R"` script to achieve the tidy data set are fully described in the CodeBook file.
-
 
 ### Required packages
 
 The `"run_analysis.R"` script requires a package `"reshape2"` to be installed (if you are taking the Getting and Cleaning Data course you most probably have it already installed).
 
 
+
+### What steps the R script takes?
+
+All the steps taken by the `"run_analysis.R"` script to achieve the tidy data set are fully described in the CodeBook file. You can also find there the description of the variables.
 
 
